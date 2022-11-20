@@ -73,7 +73,7 @@
                     setPopup(
                         new mapboxgl.Popup({ offset: 25, closeButton: false, }) // add popups
                             .setHTML(
-                                `<h5>${user.name}</h5><p>${user.status}</p>`
+                                `<h5>${user.name}</h5><p>${user.status}</p><a href="http://t.me/fzf_team_bot">contact</a>`
                             )
                     ).addTo(this.map);
 
