@@ -12,8 +12,8 @@
 
         data() {
             return {
-                center: [68.78, 38.55],
-                zoom: 4.1,
+                center: [45., 51.],
+                zoom: 3.51,
                 windowWidth: window.innerWidth,
                 users: usersData,
             };

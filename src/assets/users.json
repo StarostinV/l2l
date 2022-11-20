@@ -148,5 +148,38 @@
       "catchPhrase": "Synchronised bottom-line interface",
       "bs": "e-enable innovative applications"
     }
+  },
+  {
+    "coordinates": [2.35, 48.85],
+    "name": "Roberta",
+    "status": "Volunteer"
+  },
+  {
+    "coordinates": [0.12, 51.5],
+    "name": "Vasily",
+    "status": "Volunteer"
+  },
+  {
+    "coordinates": [13.4, 52.5],
+    "name": "Felix",
+    "status": "Volunteer"
+  },
+  {
+    "coordinates": [9.05, 48.5],
+    "name": "Vladimir Starostin",
+    "status": "Volunteer"
+  },
+  {
+    "coordinates": [11.5, 48.1],
+    "name": "Andrey",
+    "status": "Volunteer"
+  },
+  {
+    "coordinates": [
+      44.5,
+      40.1
+    ],
+    "name": "Ivan",
+    "status": "Volunteer"
   }
 ]
