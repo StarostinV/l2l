@@ -4,7 +4,7 @@
             style="z-index: 500;"
     >
         <div class="container">
-            <a class="navbar-brand text-dark">#Leave2live</a>
+            <a class="navbar-brand text-dark">#Let's roll</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
                     aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

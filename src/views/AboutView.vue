@@ -1,7 +1,8 @@
 <template>
     <div id="about-page">
         <h3>About our project</h3>
-        <p>What can we say about our project ... Nothing on the matter yet, but we'll eventually figure it out.</p>
+        <p>"Let's roll" - the multifunctional web-application, which helps the people to
+            relocate from Russia in urgent situations</p>
     </div>
 </template>
 
